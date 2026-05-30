@@ -4,7 +4,7 @@
 - Built automated data pipelines using Apache NiFi  
 - Focused on data ingestion, routing, and workflow monitoring  
 - Includes terminal outputs and Apache Solr integration documentation  
-GitHub: https://github.com/mvpokal/Projects/tree/main/Apache_Nifi_Project  
+GitHub: https://github.com/mvpokal/Projects/tree/main/Work/Apache_Nifi_Project  
 
 ---
 
@@ -12,7 +12,7 @@ GitHub: https://github.com/mvpokal/Projects/tree/main/Apache_Nifi_Project
 - Processed large-scale data using Hadoop MapReduce and HDFS  
 - Demonstrated distributed computing workflows  
 - Includes multi-part terminal execution logs  
-GitHub: https://github.com/mvpokal/Projects/tree/main/Hadoop_Project  
+GitHub: https://github.com/mvpokal/Projects/tree/main/Work/Hadoop_Project  
 
 ---
 
@@ -20,7 +20,7 @@ GitHub: https://github.com/mvpokal/Projects/tree/main/Hadoop_Project
 - Used PySpark to estimate π using Monte Carlo simulation  
 - Demonstrated distributed computing with Spark RDDs  
 - Includes execution logs and documentation  
-GitHub: https://github.com/mvpokal/Projects/tree/main/SparkPi_with_PySpark_Project  
+GitHub: https://github.com/mvpokal/Projects/tree/main/Work/SparkPi_with_PySpark_Project  
 
 ---
 
@@ -28,7 +28,7 @@ GitHub: https://github.com/mvpokal/Projects/tree/main/SparkPi_with_PySpark_Proje
 - Analyzed housing market trends in California  
 - Explored relationships between income, location, and price  
 - Used EDA and visualization techniques  
-GitHub: https://github.com/mvpokal/Projects/tree/main/California_Housing_Prices_Project  
+GitHub: https://github.com/mvpokal/Projects/tree/main/Work/California_Housing_Prices_Project  
 
 ---
 
@@ -36,7 +36,7 @@ GitHub: https://github.com/mvpokal/Projects/tree/main/California_Housing_Prices_
 - Studied factors influencing used car resale value  
 - Analyzed mileage, age, fuel type, and model impact  
 - Included research paper and Jupyter notebook  
-GitHub: https://github.com/mvpokal/Projects/tree/main/Toyota_Used_Car_Analysis  
+GitHub: https://github.com/mvpokal/Projects/tree/main/Work/Toyota_Used_Car_Analysis  
 
 ---
 
@@ -44,7 +44,7 @@ GitHub: https://github.com/mvpokal/Projects/tree/main/Toyota_Used_Car_Analysis
 - Identified trends in vegetarian ingredients and recipes  
 - Performed frequency and pattern analysis  
 - Visualized ingredient popularity  
-GitHub: https://github.com/mvpokal/Projects/tree/main/Vegetarian_Recipe_Trends_Analysis  
+GitHub: https://github.com/mvpokal/Projects/tree/main/Work/Vegetarian_Recipe_Trends_Analysis
 
 ---
 
@@ -52,7 +52,7 @@ GitHub: https://github.com/mvpokal/Projects/tree/main/Vegetarian_Recipe_Trends_A
 - Analyzed sales trends over time  
 - Identified seasonal patterns and demand fluctuations  
 - Applied time series visualization techniques  
-GitHub: https://github.com/mvpokal/Projects/tree/main/Retail_Sales_Time_Series  
+GitHub: https://github.com/mvpokal/Projects/tree/main/Work/Retail_Sales_Time_Series  
 
 ---
 
@@ -60,7 +60,7 @@ GitHub: https://github.com/mvpokal/Projects/tree/main/Retail_Sales_Time_Series
 - Analyzed airport security complaint data  
 - Explored categorical patterns and trends  
 - Focused on service quality insights  
-GitHub: https://github.com/mvpokal/Projects/tree/main/TSA_Complaints_Analysis  
+GitHub: https://github.com/mvpokal/Projects/tree/main/Work/TSA_Complaints_Analysis  
 
 ---
 
@@ -68,7 +68,7 @@ GitHub: https://github.com/mvpokal/Projects/tree/main/TSA_Complaints_Analysis
 - Examined childcare cost trends and affordability  
 - Compared regional and economic differences  
 - Provided insights into financial burden factors  
-GitHub: https://github.com/mvpokal/Projects/tree/main/Childcare_Affordability_Analysis  
+GitHub: https://github.com/mvpokal/Projects/tree/main/Work/Childcare_Affordability_Analysis  
 
 ---
 
@@ -76,7 +76,7 @@ GitHub: https://github.com/mvpokal/Projects/tree/main/Childcare_Affordability_An
 - Explored lottery number patterns and distributions  
 - Performed statistical pattern analysis  
 - Investigated randomness behavior in draws  
-GitHub: https://github.com/mvpokal/Projects/tree/main/Lottery_Data_Analysis  
+GitHub: https://github.com/mvpokal/Projects/tree/main/Work/Lottery_Data_Analysis  
 
 ---
 
