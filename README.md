@@ -3,7 +3,7 @@
 ## Overview
 This repository is a collection of end-to-end data science, big data, and analytics projects completed using real-world datasets and industry-relevant tools. Each project focuses on applying data analysis, visualization, and distributed computing techniques to solve practical problems and extract meaningful insights.
 
-The goal of this portfolio is to demonstrate proficiency across the full data pipeline—from data ingestion and cleaning to analysis, visualization, and interpretation.
+The goal of this portfolio is to demonstrate proficiency across the full data pipeline and from data ingestion and cleaning to analysis, visualization, and interpretation.
 
 ## Included Projects
 
